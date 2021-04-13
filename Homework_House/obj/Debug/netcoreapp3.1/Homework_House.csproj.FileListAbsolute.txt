@@ -1,0 +1,13 @@
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\bin\Debug\netcoreapp3.1\Homework_House.exe
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\bin\Debug\netcoreapp3.1\Homework_House.deps.json
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\bin\Debug\netcoreapp3.1\Homework_House.runtimeconfig.json
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\bin\Debug\netcoreapp3.1\Homework_House.runtimeconfig.dev.json
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\bin\Debug\netcoreapp3.1\Homework_House.dll
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\bin\Debug\netcoreapp3.1\Homework_House.pdb
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\obj\Debug\netcoreapp3.1\Homework_House.AssemblyInfoInputs.cache
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\obj\Debug\netcoreapp3.1\Homework_House.AssemblyInfo.cs
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\obj\Debug\netcoreapp3.1\Homework_House.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\obj\Debug\netcoreapp3.1\Homework_House.dll
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\obj\Debug\netcoreapp3.1\Homework_House.pdb
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\obj\Debug\netcoreapp3.1\Homework_House.genruntimeconfig.cache
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Homework_House\Homework_House\Homework_House\obj\Debug\netcoreapp3.1\Homework_House.csprojAssemblyReference.cache
