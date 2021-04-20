@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\YURKO\\SHAG\\Project C#\\06_04042021_Lab_Interface\\Homework_House\\Homework_House\\Homework_House\\Homework_House.csproj": {}
+    "f:\\YURKO\\SHAG\\Project C#\\06_04042021_Lab_Interface\\Homework_House\\Homework_House\\Homework_House\\Homework_House.csproj": {}
   },
   "projects": {
-    "F:\\YURKO\\SHAG\\Project C#\\06_04042021_Lab_Interface\\Homework_House\\Homework_House\\Homework_House\\Homework_House.csproj": {
+    "f:\\YURKO\\SHAG\\Project C#\\06_04042021_Lab_Interface\\Homework_House\\Homework_House\\Homework_House\\Homework_House.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\YURKO\\SHAG\\Project C#\\06_04042021_Lab_Interface\\Homework_House\\Homework_House\\Homework_House\\Homework_House.csproj",
+        "projectUniqueName": "f:\\YURKO\\SHAG\\Project C#\\06_04042021_Lab_Interface\\Homework_House\\Homework_House\\Homework_House\\Homework_House.csproj",
         "projectName": "Homework_House",
-        "projectPath": "F:\\YURKO\\SHAG\\Project C#\\06_04042021_Lab_Interface\\Homework_House\\Homework_House\\Homework_House\\Homework_House.csproj",
+        "projectPath": "f:\\YURKO\\SHAG\\Project C#\\06_04042021_Lab_Interface\\Homework_House\\Homework_House\\Homework_House\\Homework_House.csproj",
         "packagesPath": "C:\\Users\\DodUser\\.nuget\\packages\\",
-        "outputPath": "F:\\YURKO\\SHAG\\Project C#\\06_04042021_Lab_Interface\\Homework_House\\Homework_House\\Homework_House\\obj\\",
+        "outputPath": "f:\\YURKO\\SHAG\\Project C#\\06_04042021_Lab_Interface\\Homework_House\\Homework_House\\Homework_House\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DodUser\\AppData\\Roaming\\NuGet\\NuGet.Config",

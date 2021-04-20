@@ -44,7 +44,7 @@ namespace Homework_House
                         
                             Console.WriteLine();
                         //teamLeader.start_huose = true;
-                        //Team.teamLeader.Start(); // тут ламається, бо teamLeader тут null !!!
+                        Team.teamLeader.Start(); // тут ламається, бо teamLeader тут null !!!
 
                         //if (Team.teamLeader.start_huose)
                         //{
